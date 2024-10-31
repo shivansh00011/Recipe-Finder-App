@@ -69,7 +69,7 @@ flutter run
 
 ### Screenshots
 
-<img src ="first.png">
+<img src ="first.png" width=200px>
 
 
 ### Contributing
