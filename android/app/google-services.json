@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142353575223",
+    "project_id": "dishcovery-dba12",
+    "storage_bucket": "dishcovery-dba12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142353575223:android:31bb86c3da2b24aa9ffeb2",
+        "android_client_info": {
+          "package_name": "com.example.dishcovery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCiWdI2nXhfSl6YaG8jDYURWer6vlZZ4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
