@@ -67,6 +67,10 @@ Add your API key to the project’s configuration.
 flutter run
 ```
 
+### Screenshots
+
+
+
 ### Contributing
 Feel free to contribute to this project by forking the repository and creating pull requests. All contributions are welcome!
     
