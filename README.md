@@ -70,6 +70,9 @@ flutter run
 ### Screenshots
 
 <img src ="first.png" width=200px>
+<img src ="second.png" width=200px>
+<img src ="third.png" width=200px>
+<img src ="fourth.png" width=200px>
 
 
 ### Contributing
